@@ -1,0 +1,6 @@
+There are some basic properties of heap tree :-
+
+if current node is at i^th index
+then its left child index is 2*i 
+and its right child index is (2*i)+1
+its parent index is i/2
